@@ -1,3 +1,10 @@
+/*
+Nombre y apellido: Santiago Motta
+Ej: IF 10
+*/
+
+
+
 function mostrar()
 {
 	//Genero el número RANDOM entre 1 y 10 
