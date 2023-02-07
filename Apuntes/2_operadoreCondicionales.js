@@ -1,23 +1,5 @@
 /*
 
--------------Condicionales------------------
-
-
-
-Hasta ahora habiamos visto un codigo de ejecucion lineal.
-Con los condicionales, introducimos la posibilidad de ejecutar un codigo dependiendo de las condiciones que se den.
-Para ello, debemos establecer la condiciones, y el codigo a ejecturar si se cumple.
-
-Dentro de los condicionales tenemos al 
-
----IF---
-La traduccion al espanol seria "Si" condicional, es decir, si llueve, tengo que usar paraguas.
-El if, es una palabra reservada.
-
-La sintaxis es: if(){}.
--if es la palabra reservada para indicar el condicional
--entre los parentesis, ingresamos la condicion que se debe comprobar como verdadera o falsa.
--entre los corchetes, se ingresa la instruccion que se debe ejecutar en el caso de que la condicion haya resultado verdadera. En el caso de que haya resultado falsa, el programa no ingresa a la ejecucion de las instrucciones entre el corchete.
 
 
 ---Operadores---
